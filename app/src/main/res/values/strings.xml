@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MdDemo</string>
+    <string name="snackbar">snackbar</string>
+    <string name="snackbar_simple">simple</string>
+    <string name="snackbar_config">config</string>
+    <string name="snackbar_text">hello</string>
+    <string name="snackbar_action">action</string>
+    <string name="snackbar_info">info</string>
+    <string name="snackbar_warning">warning</string>
+    <string name="snackbar_alert">alert</string>
+    <string name="snackbar_confirm">confirm</string>
+    <string name="snackbar_background">background</string>
 </resources>
